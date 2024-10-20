@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas no HTML</title>
+</head>
+<body>
+    <!--As tabelas são elementos do HTML que permitem organizar dados em linhas e colunas. São muito utilizadas por conta da necessidade de mostrar dados de forma organizada para os usuários. As principais tags para se criar uma tabela são a <table>, o <tr> e o <td>:Obs.: repare que o <tr> é a tag da linha e o <td> é a tag da coluna.-->
+    <h1>Criação de Tabelas no HTML</h1>
+    <table>
+	    <tr>
+	        <th>Coluna 1</th>
+	        <th>Coluna 2</th>
+	    </tr>
+	    <tr>
+	        <td>Dado 1</td>
+	        <td>Dado 2</td>
+	    </tr>
+	</table>
+    <hr>
+    <!--Além dos elementos básicos também temos tags para criar tabelas mais elaboradas:-->
+
+    <table>
+	    <tr>
+	        <th>Coluna 1</th>
+	        <th>Coluna 2</th>
+	    </tr>
+	    <tr>
+	        <td>Dado 1</td>
+	        <td>Dado 2</td>
+	    </tr>
+	</table>
+
+	<hr>
+
+	<h2>Tabelas com cabeçalho</h2>
+	<table>
+		<thead>
+	    <tr>
+	        <th>Nome</th>
+	        <th>Idade</th>
+	        <th>Profissão</th>
+	    </tr>
+		</thead>
+		<tbody>
+	    <tr>
+	        <td>João</td>
+	        <td>30</td>
+	        <td>Engenheiro</td>
+	    </tr>
+	    <tr>
+	        <td>Maria</td>
+	        <td>25</td>
+	        <td>Advogada</td>
+	    </tr>
+		</tbody>
+	</table>
+    <hr>
+    <!--Também é possível utilizar os atributos “colspan” e “rowspan” para manipular quantas células a tag irá ocupar:-->
+
+    <table>
+	    <tr>
+	        <th>Coluna 1</th>
+	        <th>Coluna 2</th>
+	    </tr>
+	    <tr>
+	        <td>Dado 1</td>
+	        <td>Dado 2</td>
+	    </tr>
+	</table>
+
+	<hr>
+
+	<h2>Tabelas com cabeçalho</h2>
+	<table>
+		<thead>
+	    <tr>
+	        <th>Nome</th>
+	        <th>Idade</th>
+	        <th>Profissão</th>
+	    </tr>
+		</thead>
+		<tbody>
+	    <tr>
+	        <td>João</td>
+	        <td>30</td>
+	        <td>Engenheiro</td>
+	    </tr>
+	    <tr>
+	        <td>Maria</td>
+	        <td>25</td>
+	        <td>Advogada</td>
+	    </tr>
+		</tbody>
+	</table>
+
+	<hr>
+
+	<h2>Tabelas com células personalizadas</h2>
+	<table>
+		<thead>
+	    <tr>
+	        <th colspan="2">Informações Pessoais</th>
+	        <th>Contato</th>
+	    </tr>
+		</thead>
+		<tbody>
+	    <tr>
+	        <td>Nome:</td>
+	        <td>João</td>
+	        <td rowspan="2">Telefone: 123456</td>
+	    </tr>
+	    <tr>
+	        <td>Idade:</td>
+	        <td>30</td>
+	    </tr>
+		</tbody>
+	</table>
+</body>
+</html>
