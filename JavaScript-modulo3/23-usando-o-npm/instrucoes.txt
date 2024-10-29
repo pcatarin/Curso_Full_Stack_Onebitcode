@@ -1,0 +1,38 @@
+npm install --save lodash = serve para instalar um pacote no npm
+npm install --save-dev eslint = serve para instalar um pacote para desenvolvimento
+
+diferença entre eles  --save(definitivo) --save-dev(para desenvolvimento)
+
+npm install --global 'namePackage' = instala um pacote direto no computador assim o deixando disponivel para todos os projetos
+
+npm uninstal 'namePackage' = desinstala um pacote do projeto
+************************************************************************
+Arquivos .json
+
+Tipos de arquivos para trocar informações entre linguagens reconhecido e usado pela maioria das linguagens hoje.
+
+"" = tem que ser usado para nomear chaves e seus conteudos
+
+Tipos primitivos suportados para valores (string, number, boolean e null)
+
+{} = usados para definir grupos de propriedades (objetos)
+
+[] = usados para definir listas de dados (arrays)
+
+, = usados para separar as propriedades
+
+Exemplo:
+
+{
+    "name": "Paulo Rogério Catarin",
+    "job": "Fullstack Developer",
+    "technologies": ["HTML","CSS","Javascript","SQL"],
+    "wroking": true,
+    "yearsOfExperience": 7,
+    "website": null
+}
+
+Manipulando arquivos JSON no javascript:
+
+JSON.parse() //converte uma string para objeto json-compatible
+JSON.stringify() //converte um objeto json-compatible para string

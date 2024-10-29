@@ -1,0 +1,50 @@
+33 - Configurando o Webpack
+No mesmo projeto da aula anterior, vamos começar instalando as dependências do projeto, adicionando novamente a pasta “node_modules”:
+Obs.: Caso você não a tenha excluído não precisará executar esse comando, porém executá-lo não causará nenhum problema.
+npm install
+​
+Vamos agora criar um arquivo de configuração para o webpack chamado “webpack.config.js”. Nesse arquivo nós modificaremos o comportamento padrão do webpack para se ajustar às nossas necessidades. É importante que ele seja um módulo que exporta um objeto javascript com opções válidas do webpack.
+A primeira configuração que podemos fazer é modificar o ponto de entrada. Ao atribuir um nome para esse ponto de entrada ele será usado na saída:
+module.exports = {
+  entry: {
+    index: './src/index.js'
+  }
+}
+​
+Além disso, podemos ver que o webpack está emitindo um WARNING no terminal. Isso não é um impede o seu funcionamento, mas é um aviso de que estamos fazendo algo que pode virar um problema. Nesse caso, ele pede que especifiquemos o modo. Vamos fazer isso através da propriedade mode:
+module.exports = {
+  entry: {
+    index: './src/index.js'
+  },
+	mode: 'development'
+}
+​
+Além disso, também podemos configurar as opções de output. Vamos mudar a configuração do webpack e executá-lo novamente:
+Obs.: Veja que agora que definimos manualmente, o nome do entry point não é usado na saída.
+const path = require('path')
+
+module.exports = {
+  entry: {
+    index: './src/index.js'
+  },
+  output: {
+    path: path.resolve(__dirname, 'public'),
+    filename: 'bundle.min.js'
+  },
+  mode: 'development'
+}
+​
+Por último, podemos adicionar múltiplos pontos de entrada na aplicação, desde que adicionemos “[name]” ao nome do arquivo de saída, para que o webpack consiga dar nomes únicos para cada ponto de entrada:
+const path = require('path')
+
+module.exports = {
+  entry: {
+    index: './src/index.js',
+    hello: './src/hello.js'
+  },
+  output: {
+    path: path.resolve(__dirname, 'public'),
+    filename: '[name].min.js'
+  },
+  mode: 'development'
+}
