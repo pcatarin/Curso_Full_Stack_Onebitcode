@@ -1,0 +1,55 @@
+npm i -D webpack webpack-cli @babel/core @babel/preset-env style-loader css-loader babel-loader
+
+depois criar o arquivo de configuração do babel na pasta principal
+
+babel.config.js // e exportar o modulo para dentro dele 
+
+module.exports = {
+    presets: [
+        ['@babel/preset-env']
+    ]
+}
+
+criar o arquivo de configuração do webpack na pasta principal
+
+webpack.config.js // e exportar o modulo e fazer suas configurações
+
+module.exports = {
+*********Configuração do arquivo de entrada*******************
+    entry: {
+        index: './src/index.js'
+    },
+*********Configuração do arquivo de entrada*******************
+----------------------------------------------------------------
+*********Configuração do modo e algumas regras*******************
+    mode: 'development',
+    module: {
+        rules: [{
+            test: /\.css$/,
+            rule: ['style-loader' , 'css-loader']
+        }, {
+            test: /\.js$/,
+            use: ['babel-loader']
+    }]
+    },
+*********Configuração do modo e algumas regras*******************
+---------------------------------------------------------------
+*********Configuração do arquivo de saida*******************
+    output: {
+        filename: '[name].min.js'
+    }
+*********Configuração do arquivo de saida*******************
+}
+--------------------------------------------------------------
+--------------------------------------------------------------
+Depois criar um script no package.json para facilitar sua execução
+
+"scripts": {
+    "build": "webpack"
+},
+
+E usar o comando /npm run build/ no terminal para chamar o script 
+
+
+
+
