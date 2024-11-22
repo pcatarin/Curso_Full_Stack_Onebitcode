@@ -1,7 +1,7 @@
 module.exports = class Transfer {
-    constructor (userSend, userRec, value) {
-        this.userSend = userSend
-        this.userRec = userRec
+    constructor (fromUser, toUser, value) {
+        this.fromUser = fromUser
+        this.toUser = toUser
         this.value = value
         this.dateTransfer = new Date()
     }

@@ -1,12 +1,21 @@
-module.exports = class Loan {
-    static #tax = (100/10) 
+const Installment = require("./Installment")
 
-    constructor (valueLoan) {
-        this.valueLoan = valueLoan
+module.exports = class Loan {
+    static #fee = 1.05 
+
+    constructor (value, installments) {
+        this.value = value
+        this.installments = []
+        for (let i = 1; i <= installments; i++)
+            this.installments.push(new Installment(((value * Loan.#fee) / installments), i))
         this.dateLoan = new Date()
     }
 
-    static get taxValue () {
-        return 
+    static get fee () {
+        return Loan.#fee
     }
+
+    static set fee (newFeePercentage) {
+        Loan.#fee = 1 + (newFeePercentage/100)
+    }    
 }
