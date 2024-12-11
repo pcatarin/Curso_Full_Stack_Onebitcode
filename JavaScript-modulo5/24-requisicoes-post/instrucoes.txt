@@ -1,0 +1,53 @@
+24 - Requisições POST com Javascript 
+Nessa aula você irá aprender como fazer requisições POST com a função fetch() do javascript e quais são as diferenças para uma requisição GET. Para ajudar na aula iremos usar um pacote do npm muito útil quando queremos testar interações com APIs, o json-server. Ele permite simular um backend de forma simples e rápida, subindo um pequeno servidor para receber nossas requisições e salvando dados em arquivo. Ele é capaz de receber requisições GET, POST, PUT e DELETE seguindo a arquitetura Rest para trabalhar com quaisquer recursos que quisermos definir.
+Vamos começar criando uma pasta para a aula, inicializando o npm e instalando também o json-server, a única dependência que precisaremos:
+npm init -y
+​
+npm install json-server
+​
+Com o json-server instalado, vamos apenas editar o arquivo package.json para incluir um script que roda o servidor e salva os dados em um arquivo chamado “db.json” na raiz do projeto:
+// ...
+  "scripts": {
+    "json-server": "json-server --watch db.json"
+  },
+// ...
+​
+O último passo de preparação do json-server será criar um arquivo chamado “db.json” na raiz do projeto (junto com o package.json) e colocar alguns dados iniciais que usaremos no exemplo da aula:
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, mundo!",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com Javascript",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    }
+  ]
+}
+​
+Agora já podemos deixar o json-server rodando. Abra um terminal e execute-o com o comando:
+npm run json-server
+
+
+
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, Mundo!",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus nihil ullam quo dicta aperiam consequatur aliquam quisquam asperiores debitis repellendus!",
+      "author": "Paulo"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com JavaScript",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus nihil ullam quo dicta aperiam consequatur aliquam quisquam asperiores debitis repellendus!",
+      "author": "Paulo"
+    }
+  ]
+}

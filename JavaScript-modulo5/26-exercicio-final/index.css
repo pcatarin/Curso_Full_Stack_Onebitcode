@@ -1,0 +1,30 @@
+.credit, .positive {
+    color: rgb(23, 132, 23);
+}
+.debit, .negative {
+    color: rgb(239, 32, 32);
+}
+
+.transaction {
+    position: relative;
+    display: flex;
+    gap: .5rem;
+    justify-content: start;
+    background-color: rgb(157, 161, 160);
+    padding: 1%;
+}
+.edit-btn {
+    display: inline-block;
+    position: absolute;
+    right: 60px;
+}
+.delete-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+}
+
+#transactions {
+    width: 30%;
+    height: min-content;
+}

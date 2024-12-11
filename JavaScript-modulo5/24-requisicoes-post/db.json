@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, Mundo!",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus nihil ullam quo dicta aperiam consequatur aliquam quisquam asperiores debitis repellendus!",
+      "author": "Paulo"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com JavaScript",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus nihil ullam quo dicta aperiam consequatur aliquam quisquam asperiores debitis repellendus!",
+      "author": "Paulo"
+    }
+  ]
+}
