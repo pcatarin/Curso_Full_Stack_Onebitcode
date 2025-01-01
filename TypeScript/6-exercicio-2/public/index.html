@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 2 Criando Tipos</title>
+</head>
+<body>
+    <h1>Entre com os dados do Planeta</h1>
+
+    <form class="planet-info">
+        <label for="name">Nome:</label>
+        <input type="text" id="name"><br><br>
+
+        <label for="">Coordenadas:</label><br>
+        <label for="coordenate-1">1º:</label>
+        <input type="number" id="coordenate-1" class="coordenates">
+        <label for="coordenate-2">2º:</label>
+        <input type="number" id="coordenate-2" class="coordenates"><br>
+        <label for="coordenate-3">3º:</label>
+        <input type="number" id="coordenate-3" class="coordenates">
+        <label for="coordenate-4">4º:</label>
+        <input type="number" id="coordenate-4" class="coordenates"><br><br>
+
+        <label for="situation">Situação:</label>
+        <select name="situation" id="situation">
+            <option value="" disabled selected>Escolha</option>
+            <option value="habitado" class="situation-value">Hábitado</option>
+            <option value="hábitavel" class="situation-value">Hábitavel</option>
+            <option value="inabitável" class="situation-value">Inabitável</option>
+            <option value="inexplorado" class="situation-value">Inexplorado</option>
+        </select><br><br>
+
+        <label for="satelities">Satélites:</label>
+        <input type="text" id="satelities"><br><br>
+
+        <button id="btn-add">Enviar</button>
+    </form>
+
+    <script src="./dist/index.js"></script>
+</body>
+</html>
