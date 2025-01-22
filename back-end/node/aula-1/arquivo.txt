@@ -1,0 +1,5 @@
+Olá mundo!!!
+Estamos executando o node!
+
+Olá estamos lendo o arquivo txt salvo!
+Funcionou

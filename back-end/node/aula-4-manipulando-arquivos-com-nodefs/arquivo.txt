@@ -1,0 +1,2 @@
+Conteúdo do novo arquivo assincrono,
+entrada1, entrada2, entrada3
