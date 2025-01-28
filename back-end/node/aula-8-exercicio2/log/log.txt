@@ -1,0 +1,427 @@
+-------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:44
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:45
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:46
+Uso da Memória: 11.57 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:47
+Uso da Memória: 11.57 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:48
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:49
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:50
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:51
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:52
+Uso da Memória: 11.57 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:53
+Uso da Memória: 11.59 GB / 15.86 GB (73 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:54
+Uso da Memória: 11.6 GB / 15.86 GB (73 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:55
+Uso da Memória: 11.59 GB / 15.86 GB (73 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:56
+Uso da Memória: 11.6 GB / 15.86 GB (73 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:57
+Uso da Memória: 11.59 GB / 15.86 GB (73 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:58
+Uso da Memória: 11.59 GB / 15.86 GB (73 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:9:59
+Uso da Memória: 11.6 GB / 15.86 GB (73 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:1
+Uso da Memória: 11.6 GB / 15.86 GB (73 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:1
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:2
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:3
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:4
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:5
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:6
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:7
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:9
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:10
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:11
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:12
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:13
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:14
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:15
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:16
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:17
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:18
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:19
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:20
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:21
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:22
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:23
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:24
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:25
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:26
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:27
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:28
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:29
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:30
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:31
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:32
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:33
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:34
+Uso da Memória: 11.559999999999999 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:35
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:36
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:37
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:38
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:39
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:40
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:41
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:42
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:43
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:44
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:45
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:46
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:47
+Uso da Memória: 11.53 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:48
+Uso da Memória: 11.53 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:49
+Uso da Memória: 11.53 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:50
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:51
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:52
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:53
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:54
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+-----------------------------------------
+Sistema: Windows
+Arquitetura: 64 Bites
+Processador: Intel(R) Pentium(R) CPU 5405U @ 2.30GHz
+Tempo de Atividade: 3:16:10:55
+Uso da Memória: 11.55 GB / 15.86 GB (72 %)
+----------------------
