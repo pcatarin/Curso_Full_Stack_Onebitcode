@@ -1,0 +1,2 @@
+
+&ltspan&gtEsta é a tag &ltspan&gt&lt/span&gt

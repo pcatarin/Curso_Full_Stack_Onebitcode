@@ -1,0 +1,144 @@
+Objetivos da aula
+
+Entender o que é um arquivo HTML dinâmico e por que ele é útil
+
+Entender o que é uma template engine e com usar o EJS
+
+Configuração do Ambiente
+
+Crie um novo diretório para o projeto.
+
+Abra o terminal e navegue até o diretório do projeto.
+
+Inicie um novo projeto Node.js com npm init -y.
+
+Instalação do Express e EJS
+
+Utilizar o npm para instalar o Express e o EJS no projeto com os comandos npm install express e npm install ejs.
+
+npm install express ejs
+
+
+Configurando o Uso de EJS
+
+Configurar o Express para usar o EJS como a engine de template.
+
+Utilizar o método app.set() do Express para definir a view engine como EJS.
+
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/
+const express = require('express')
+const path = require('node:path')
+
+const app = express()
+
+app.set('view engine', 'ejs')
+app.set('views', path.join(__dirname, 'views'))
+
+app.get('/', (req, res) => {
+  const title = 'Homepage'
+  const message = 'Mensagem dinâmica inserida pelo EJS.'
+
+  res.render('index', { title, message })
+})
+
+const PORT = 3000
+
+app.listen(PORT, () => {
+  console.log('Servidor iniciado!')
+})
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/
+
+
+Criando e Renderizando Arquivos EJS com Dados Dinâmicos
+
+Passe dados dinâmicos para o arquivo EJS a ser renderizado, como títulos, mensagens, listas, etc, usando o segundo parâmetro do método .render()
+
+Utilize esses dados dinâmicos dentro do arquivo EJS usando a sintaxe <%= %>.
+
+
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/
+<!-- src/views/index.ejs -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>
+    <%= title %>
+  </title>
+</head>
+
+<body>
+  <h1>Renderizando HTML Dinâmico com EJS</h1>
+  <p>
+    <%= message %>
+  </p>
+</body>
+
+</html>
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/
+
+
+Utilizando recursos da linguagem JavaScript dentro do HTML
+
+É possível também usar outras estruturas do JS, desde que utilizemos a tag especial do EJS <% %> a cada trecho de código não-HTML.
+
+Através disso podemos usar condicionais, repetições, e qualquer outro recurso da linguagem normalmente.
+
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/
+<!-- src/views/index.ejs -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>
+    <%= title %>
+  </title>
+</head>
+
+<body>
+  <h1>Renderizando HTML Dinâmico com EJS</h1>
+  <p>
+    <%= message %>
+
+    <% if (1===1) { %>
+      <p>verdadeiro</p>
+    <% } else { %>
+      <p>falso</p>
+    <% } %>
+
+    <ul>
+      <% for( let index=0; index <=10; index++ ) { %>
+        <li>
+          4 * <%= index %> = <%= 4 * index %>
+        </li>
+      <% } %>
+    </ul>
+  </p>
+</body>
+
+</html>
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/
+/===============================================================================================/

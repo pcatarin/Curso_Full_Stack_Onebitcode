@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: rgb(36, 36, 36);
+    color: aquamarine;
+}
+
+#teste {
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    font-size: 20px;
+}

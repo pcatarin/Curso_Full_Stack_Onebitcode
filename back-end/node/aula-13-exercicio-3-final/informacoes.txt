@@ -1,0 +1,10 @@
+1- Criar anotações
+As anotações deveram ser salvas em uma pasta chamada notes em formato txt
+
+2-Listar anotações
+
+3-Ler uma anotação especifica
+
+4-Excluir anotação especifica
+
+5-Ter um menu para selecionar o que deseja fazer.
